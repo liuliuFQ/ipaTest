@@ -35,11 +35,7 @@
                 <key>bundle-identifier</key>
                 <string>AnyOne.THAssistant</string>
                 <key>bundle-version</key>
-<<<<<<< HEAD
                 <string>1.1.1</string>
-=======
-                <string>1.0.8</string>
->>>>>>> 4ef634bc728b00f9e202dc0965c767d33b63bb15
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
